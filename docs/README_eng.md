@@ -1,6 +1,6 @@
 # Black Duck & FOSSLight Hub integration CLI
 
-### Tooltip
+### Introduction
   * A tool to sync the Black Duck's BOM information to the FOSSLight Hub's Project.
   * Black Duck: https://www.synopsys.com/software-integrity/security-testing/software-composition-analysis.html
   * FOSSLight Hub: https://fosslight.org/fosslight/
@@ -11,7 +11,7 @@
   * Black Duck: [ v2022.4.1 ] (https://github.com/blackducksoftware/hub/releases/tag/v2022.4.1)
   * FOSSLight Hub: [ v1.3.6 ] (https://github.com/fosslight/fosslight/releases/tag/v1.3.6)
 
-### Build method (STS)
+### How to Build
 * Using Spring Tools (STS): https://spring.io/tools
 * Source import: File >> Open Projects From Filesystem >> Import source: Select the downloaded source root
 * Select the project, right-click >> Run AS >> Click Maven build >> Enter 'package' in Goals and click Run
