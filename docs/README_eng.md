@@ -17,7 +17,7 @@
 * Select the project, right-click >> Run AS >> Click Maven build >> Enter 'package' in Goals and click Run
 * After the build is completed, create BlackDuck_FOSSLight_Sync-x.x.jar in the target directory and check the build success message
 
-### Black Duck and OSSLight Hub integration scenario
+### Black Duck and FOSSLight Hub integration scenario
   * Create a project or check an existing project in FOSSLight Hub.
   * Check the FOSSLight Project ID of the project. (ID column value in the project list table)
   * Check the project name and version for linking in Black Duck
