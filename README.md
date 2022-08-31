@@ -21,7 +21,7 @@
 * 해당프로젝트선택 오른쪽 마우스 >> Run AS >> Maven build 클릭 >> Goals 에  'package' 입력 하고 Run 클릭
 * 빌드 완료 후 target 디렉토리에 BlackDuck_FOSSLight_Sync-x.x.jar 생성 및 BUILD SUCESS 메세지 확인
 
-### Black Duck과 OSSLight Hub 연동 시나리오
+### Black Duck과 FOSSLight Hub 연동 시나리오
   * FOSSLight Hub에서 프로젝트를 생성 혹은 기존 프로젝트를 확인 한다.
   * 해당 프로젝트의 FOSSLight Project ID를 확인 한다. (Project 리스트 표에서 ID 칼럼값)
   * Black Duck에서 연동을 위한 Project 이름 및 버전을 확인 한다
