@@ -1,5 +1,5 @@
 <p align='right'>
-  <a href="https://github.com/tech-kms/blackduck-fosslight-sync_CLI_tmp/blob/main/docs/README_eng.md">[ENGLISH]</a>
+  <a href="https://github.com/tech-kms/blackduck-fosslight-sync_CLI/blob/main/docs/README_eng.md">[ENGLISH]</a>
 </p>
 
 # Black Duck & FOSSLight Hub 연동 CLI
